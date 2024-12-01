@@ -1,4 +1,5 @@
 # Diversión con banderas
+Ver ejercicio terminado en el navegador: https://juanjdes.github.io/diversion-con-banderas/
 
 Este es un ejemplo de una aplicación que utiliza la API de REST Countries para obtener información sobre países y mostrarla en una interfaz de usuario. La aplicación está escrita en JavaScript y utiliza funciones asíncronas para manejar las llamadas a la API.
 
